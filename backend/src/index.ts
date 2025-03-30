@@ -12,7 +12,7 @@ const {
   NODE_ENV = 'development',
   BSV_NETWORK = 'main',
   HTTP_PORT = '3002',
-  SERVER_PRIVATE_KEY = 'd2607f51d2f51bf92c9f5a5a93fac1f9dbb9ebbca5b7d8c754fd7c64bacd880a',
+  SERVER_PRIVATE_KEY = '',// MY SERVER PRIVATE KEY IS HERE
   WALLET_STORAGE_URL = 'https://storage.babbage.systems',
   CERTIFICATE_TYPE_ID = 'Z2l0aHViLWlkZW50aXR5'
 } = process.env;
