@@ -14,7 +14,7 @@ interface GitHubUser extends Express.User {
 // Environment variables for GitHub OAuth
 const {
   GITHUB_CLIENT_ID = 'Ov23liGOLLaOqcAE21J5',
-  GITHUB_CLIENT_SECRET = 'fad46b02079172921bfc74224f29e66686d913cd',
+  GITHUB_CLIENT_SECRET = '', // Enter github client secret
   GITHUB_CALLBACK_URL = 'http://localhost:3002/auth/github/callback'
 } = process.env;
 
