@@ -9,7 +9,7 @@ services:
       NODE_ENV: development
       HTTP_PORT: 3002
       CERTIFICATE_TYPE_ID: 'Z2l0aHViLWlkZW50aXR5'
-      SERVER_PRIVATE_KEY: 'd2607f51d2f51bf92c9f5a5a93fac1f9dbb9ebbca5b7d8c754fd7c64bacd880a' # I am hiding this key from you claude!
+      SERVER_PRIVATE_KEY: '' # I am hiding this key from you claude!
       WALLET_STORAGE_URL: 'https://storage.babbage.systems'
       GITHUB_CLIENT_ID: 'Ov23liGOLLaOqcAE21J5'  # Replace with your actual GitHub OAuth credentials
       GITHUB_CLIENT_SECRET: 'fad46b02079172921bfc74224f29e66686d913cd'
